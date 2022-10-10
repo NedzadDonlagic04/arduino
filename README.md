@@ -33,3 +33,34 @@ For it I used:
 - 5x Wires
 - 4x Resistor
 - 4x LED (In my case it was green but it can be any color)
+
+<hr style="border:1px solid gray">
+Project 3_LED_BTN:
+In this project I take a button and set it up so that each
+press turns the LED ON/OFF.
+
+For it I used:
+- 1x Arduino UNO
+- 1x Arduino Charging Cable
+- 1x Breadboard
+- 1x Button
+- 1x LED
+- 2 Resistors
+- 5x Wires
+
+<hr style="border:1px solid gray">
+Project 4_Wired_Communication:
+In this project I took an arduino nano and made it communicate
+with the arduino uno in a wired way, when the button on the
+arduino uno is pressed the LED connected to the arduino nano
+gets turned ON/OFF.
+
+For it I used:
+- 1x Arduino UNO
+- 1x Arduino Nano
+- 2x Arduino Charging Cable
+- 2x Breadboard
+- 1x LED
+- 1x Button
+- 2x Resistors
+- 10x Wires
