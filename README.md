@@ -4,15 +4,16 @@ In this repository I will be storing all the
 arduino related things I do. Inside the howItLooks
 folder you can see a picture of video of the
 project.
-<br/>
+
 Under this there will be a short description
 for all the projects I've done so far.
-<br/>
+
 <hr style="border:1px solid gray">
 Project 1_LED:
 In this project I take a LED diode and turn it on.
-<br/>
+
 For it I used:
+
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
 - 2x Wires
@@ -22,7 +23,8 @@ For it I used:
 Project 2_LEDx4:
 In this project I take 4 LEDs and have them turn on one
 after another in a loop.
-<br/>
+
+
 For it I used:
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
