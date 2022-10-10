@@ -20,6 +20,7 @@ For it I used:
 - 2x Wires
 - 1x Resistor
 - 1x LED (In my case it was green but it can be any color)
+
 <hr style="border:1px solid gray">
 Project 2_LEDx4:
 In this project I take 4 LEDs and have them turn on one
