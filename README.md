@@ -24,7 +24,6 @@ Project 2_LEDx4:
 In this project I take 4 LEDs and have them turn on one
 after another in a loop.
 
-
 For it I used:
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
