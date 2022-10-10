@@ -16,6 +16,7 @@ For it I used:
 
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
+- 1x Breadboard
 - 2x Wires
 - 1x Resistor
 - 1x LED (In my case it was green but it can be any color)
@@ -27,6 +28,7 @@ after another in a loop.
 For it I used:
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
+- 1x Breadboard
 - 5x Wires
 - 4x Resistor
 - 4x LED (In my case it was green but it can be any color)
