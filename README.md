@@ -12,8 +12,7 @@ for all the projects I've done so far.
 Project 1_LED:
 In this project I take a LED diode and turn it on.
 
-For it I used:
-
+For this project I used:
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
 - 1x Breadboard
@@ -26,7 +25,7 @@ Project 2_LEDx4:
 In this project I take 4 LEDs and have them turn on one
 after another in a loop.
 
-For it I used:
+For this project I used:
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
 - 1x Breadboard
@@ -39,7 +38,7 @@ Project 3_LED_BTN:
 In this project I take a button and set it up so that each
 press turns the LED ON/OFF.
 
-For it I used:
+For this project I used:
 - 1x Arduino UNO
 - 1x Arduino Charging Cable
 - 1x Breadboard
@@ -55,7 +54,7 @@ with the arduino uno in a wired way, when the button on the
 arduino uno is pressed the LED connected to the arduino nano
 gets turned ON/OFF.
 
-For it I used:
+For this project I used:
 - 1x Arduino UNO
 - 1x Arduino Nano
 - 2x Arduino Charging Cable
@@ -64,3 +63,21 @@ For it I used:
 - 1x Button
 - 2x Resistors
 - 10x Wires
+
+<hr style="border:1px solid gray">
+Project 5_Wireless_Communication:
+In this project I took an arduino uno and an arduino nano
+and had them communicate using the nrf24l01 wireless
+transceiver modules. When the button is clicked it sends
+a signal through a given channel and turns the led ON or
+OFF depending on it's current state.
+
+For this project I used:
+- 1x Arduino UNO
+- 1x Arduino Nano
+- 2x Arduino Charging Cable
+- 1x LED
+- 1x Button
+- 2x Resistors
+- 2x nrf24l01 wireless modules
+- 21x Wires
